@@ -1,5 +1,5 @@
 # Streaming-HL7-to-FHIR-Data-with-Dataflow-and-the-Healthcare-API
-Streaming HL7 to FHIR Data with Dataflow and the Healthcare API
+
 
 gcloud config set compute/region us-west1
 gcloud config set compute/zone us-west1-b
